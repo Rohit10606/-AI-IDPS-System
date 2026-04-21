@@ -1,6 +1,6 @@
-🛡️ AI-Powered Autonomous IDPS (Intrusion Detection & Prevention System)
+🛡️ **AI-Powered Autonomous IDPS** (Intrusion Detection & Prevention System)
 
-An enterprise-grade, cloud-native security platform that detects and responds to cyber threats in real time using a hybrid approach of rule-based detection and AI-driven anomaly detection.
+An **enterprise-grade**, cloud-native security platform that detects and responds to cyber threats in real time using a hybrid approach of **rule-based detection** and **AI-driven anomaly detection**.
 
 ---
 
